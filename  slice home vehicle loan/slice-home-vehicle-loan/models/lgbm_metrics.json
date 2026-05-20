@@ -1,0 +1,30 @@
+{
+  "auc_roc": 0.7289,
+  "auc_pr": 0.3519,
+  "default_rate": 0.183,
+  "features": [
+    "age",
+    "income_mo",
+    "emp_enc",
+    "emp_years",
+    "cibil",
+    "loan_amt",
+    "ltv",
+    "tenure_mo",
+    "interest_rate",
+    "emi",
+    "emi_income",
+    "delinq_hist",
+    "num_loans",
+    "co_applicant",
+    "city_enc",
+    "type_enc",
+    "loan_income_ratio",
+    "high_ltv",
+    "high_emi_stress",
+    "bad_cibil",
+    "good_cibil",
+    "has_delinquency",
+    "age_income_ratio"
+  ]
+}

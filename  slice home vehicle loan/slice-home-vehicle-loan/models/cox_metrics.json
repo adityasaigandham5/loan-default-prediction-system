@@ -1,0 +1,17 @@
+{
+  "c_index": 0.7717,
+  "cox_features": [
+    "ltv",
+    "emi_income",
+    "cibil",
+    "loan_amt",
+    "tenure_mo",
+    "interest_rate",
+    "delinq_hist",
+    "co_applicant",
+    "age",
+    "income_mo",
+    "emp_years"
+  ],
+  "n_train": 20000
+}
